@@ -10,7 +10,7 @@ string response = "";
 while(response.ToLower() != "exit") {
 
   Console.WriteLine("Welcome to the reverse it game! Enter \"exit\" at any time to quit");
-  Console.WriteLine("Please enter a number");
+  Console.WriteLine("\nPlease enter a number");
 
   bool isNumValid = false;
   int num = 0;
@@ -40,7 +40,7 @@ while(response.ToLower() != "exit") {
     revArr[i] = numString[numString.Length-1-i];
   }
 
-  Console.WriteLine("You entered: ");
+  Console.WriteLine("\nYou entered: ");
   Console.WriteLine(numString);
   Console.WriteLine("The reverse of it is: ");
   Console.WriteLine(revArr);
@@ -59,7 +59,7 @@ while(response.ToLower() != "exit") {
     revStringArr[i] = response[response.Length-1-i];
   }
 
-  Console.WriteLine("You entered: ");
+  Console.WriteLine("\nYou entered: ");
   Console.WriteLine(response);
   Console.WriteLine("The reverse of it is: ");
   Console.WriteLine(revStringArr);
