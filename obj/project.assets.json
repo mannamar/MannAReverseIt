@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/amardeepmann/.nuget/packages/": {}
+    "/Users/manuel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAReverseIt/amannMiniCh#7.csproj",
+      "projectUniqueName": "/Users/manuel/Documents/GitRepository/MannAReverseIt/amannMiniCh#7.csproj",
       "projectName": "amannMiniCh#7",
-      "projectPath": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAReverseIt/amannMiniCh#7.csproj",
-      "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-      "outputPath": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAReverseIt/obj/",
+      "projectPath": "/Users/manuel/Documents/GitRepository/MannAReverseIt/amannMiniCh#7.csproj",
+      "packagesPath": "/Users/manuel/.nuget/packages/",
+      "outputPath": "/Users/manuel/Documents/GitRepository/MannAReverseIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
+        "/Users/manuel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
