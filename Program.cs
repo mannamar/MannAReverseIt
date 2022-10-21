@@ -2,6 +2,10 @@
 // 10-20-22
 // Mini Challenge #7 - Reverse it
 // Take a number or string from the user and reverse it. Then take a string from the user and reverse it.
+// Peer reviewed by Manuel L:
+// Over all the code looks great and also works amazing, I like how if you tried to input somethings thats not meant to be , it shows it as invalid try again, great job on everything, the code runs perfect.
+// Github link: https://github.com/peedrama/MannAReverseIt
+
 
 Console.Clear();
 
